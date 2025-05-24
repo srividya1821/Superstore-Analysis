@@ -16,9 +16,7 @@ This report helps the superstore to find out sales and profit depends on multipl
 - Consumer Segment is the top segment in sales among 3 segments.
 - Standard class ship mode is more profitable.
 - Both the East region and the year 2019 achieved the highest sales figures .
-  ![bank_churn_Summary](https://github.com/user-attachments/assets/a6bcec9c-b00e-4c37-b343-ca4206480667)
-  ![bank churn_cred](https://github.com/user-attachments/assets/41ae0f4c-6e37-435e-85a6-99763ec88d53)
-  ![Image](https://github.com/user-attachments/assets/9803eaae-9b16-4bef-b352-03d41de7760b)
+  ![Image](https://github.com/user-attachments/assets/ae160711-37f4-4f5e-975c-d02e2e87c7fa)
   ## Final Conclusion:
 - Offer free financial planning tools, webinars, or one-on-one consultations and Position the bank as a partner in their financial journey.
 - Offer exclusive benefits like priority service to senior citizens.
