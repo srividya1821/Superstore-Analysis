@@ -9,13 +9,9 @@ This report helps the superstore to find out sales and profit depends on multipl
 - What are the profit trends over the years, and which year recorded the highest profit?
   ## Process
 - Get the data From kaggle Datasets.
-- Collect the data in different formats.
 - Verify data for any missing values and anomalies, and sort out the same.
-- Make sure data is consistent and clean with respect to data type, data format and values used.
-- Create the relation ships between the tables.Data modelling was done.
 - Create UI Report and Enhance the Report by Dax and Measures.
-- Create RLS and workspace.
-- Publish the Report to the workspace and give Access to the workspace.
+- Publish the Report to the workspace.
   ## Project Insight
 - Retained customers are 80% and churned customers are 20%.
 - 52 - 56 age group exhibits more churn rate.
