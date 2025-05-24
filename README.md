@@ -3,14 +3,12 @@
 This report helps the superstore to find out sales and profit depends on multiple parameters and discover findings in which areas they need to improve.
 ## Questions (KPIs)
 - which  segment has made more sales?
-- Which segment has been the most profitable?
-- Credit card holders Distribution in total customers?
-- What is the customer count for the highest products sold?
-- What is the number of top-performing customers?
-- Trends in customer churn and retention over time.
-- Number of products sold by month and category.
+- Which shipmode has been the most profitable?
+- Sales Trends by Year and region?
+- Which shipping mode and region have generated the highest sales?
+- What are the profit trends over the years, and which year recorded the highest profit?
   ## Process
-- Get the business requirement document and understand the business objective and Data.
+- Get the data From kaggle Datasets.
 - Collect the data in different formats.
 - Verify data for any missing values and anomalies, and sort out the same.
 - Make sure data is consistent and clean with respect to data type, data format and values used.
