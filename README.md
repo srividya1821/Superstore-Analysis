@@ -12,10 +12,10 @@ This report helps the superstore to find out sales and profit depends on multipl
 - Verify data for any missing values and anomalies, and sort out the same.
 - Create UI Report and Enhance the Report by Dax and Measures.
 - Publish the Report to the workspace.
-  ## Project Insight
-- Retained customers are 80% and churned customers are 20%.
-- 52 - 56 age group exhibits more churn rate.
-- In total customers, there are 70% customers are credit card holders.
+  ## Project Insights
+- Consumer Segment is the top segment in sales among 3 segments.
+- Standard class ship mode is more profitable.
+- Both the East region and the year 2019 achieved the highest sales figures .
 - 0.6% of customers have bought all the products offered by the bank.
 - 6.5% of customers are categorized as top-performing clients.
   ![bank_churn_Summary](https://github.com/user-attachments/assets/a6bcec9c-b00e-4c37-b343-ca4206480667)
